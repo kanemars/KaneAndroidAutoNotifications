@@ -21,8 +21,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="26" />
+        android:minSdkVersion="23"
+        android:targetSdkVersion="27" />
 
 <!--     Specifies the instrumentation test runner used to run the tests. -->
     <instrumentation
