@@ -61,7 +61,7 @@ public class MainActivity extends Activity {
 
         PendingIntent msgReplyPendingIntent = PendingIntent.getBroadcast(getApplicationContext(),
                 thisConversationId,
-                msgHeardIntent,
+                msgReplyIntent,
                 PendingIntent.FLAG_UPDATE_CURRENT);
 
         RemoteInput remoteInput = new RemoteInput.Builder("voice_reply_key")
