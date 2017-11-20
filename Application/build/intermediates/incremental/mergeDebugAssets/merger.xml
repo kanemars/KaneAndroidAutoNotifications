@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\java\BasicNotifications\Application\src\main\assets"/><source path="C:\java\BasicNotifications\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\java\BasicNotifications\Application\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\java\ChuffMeAuto\Application\src\main\assets"/><source path="C:\java\ChuffMeAuto\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\java\ChuffMeAuto\Application\src\debug\assets"/></dataSet></merger>

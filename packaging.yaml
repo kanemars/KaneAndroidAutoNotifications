@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [UI]
 languages:    [Java]
 solutions:    [Mobile]
-github:       googlesamples/android-BasicNotifications
+github:       googlesamples/android-ChuffMeAuto
 level:        BEGINNER
-icon:         BasicNotificationsSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+icon:         ChuffMeAutoSample/src/main/res/drawable-xxhdpi/ic_launcher.png
 license:      apache2-android

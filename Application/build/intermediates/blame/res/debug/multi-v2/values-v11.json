@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\java\\BasicNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\java\\BasicNotifications\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "source": "C:\\java\\ChuffMeAuto\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

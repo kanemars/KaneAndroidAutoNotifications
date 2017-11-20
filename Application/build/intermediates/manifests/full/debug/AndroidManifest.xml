@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.basicnotifications"
+    package="com.example.android.ChuffMeAuto"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -36,7 +36,7 @@
             android:resource="@xml/automotive_app_desc" />
 
         <activity
-            android:name="com.example.android.basicnotifications.MainActivity"
+            android:name="com.example.android.ChuffMeAuto.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,19 +46,19 @@
         </activity>
 
         <receiver
-            android:name="com.example.android.basicnotifications.KaneMessageHeardReceiver"
+            android:name="com.example.android.ChuffMeAuto.KaneMessageHeardReceiver"
             android:enabled="true"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.example.android.basicnotifications.KANE_ACTION_MESSAGE_HEARD" />
+                <action android:name="com.example.android.ChuffMeAuto.KANE_ACTION_MESSAGE_HEARD" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.example.android.basicnotifications.KaneMessageReplyReceiver"
+            android:name="com.example.android.ChuffMeAuto.KaneMessageReplyReceiver"
             android:enabled="true"
             android:exported="true" >
             <intent-filter>
-                <action android:name="com.example.android.basicnotifications.KANE_ACTION_MESSAGE_REPLY" />
+                <action android:name="com.example.android.ChuffMeAuto.KANE_ACTION_MESSAGE_REPLY" />
             </intent-filter>
         </receiver>
 

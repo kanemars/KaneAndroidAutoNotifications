@@ -16,7 +16,7 @@
 -->
 <!-- package name must be unique so suffix with "tests" so package loader doesn't ignore us -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.basicnotifications.test"
+    package="com.example.android.ChuffMeAuto.test"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -29,8 +29,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.android.basicnotifications"
-        android:targetPackage="com.example.android.basicnotifications" />
+        android:label="Tests for com.example.android.ChuffMeAuto"
+        android:targetPackage="com.example.android.ChuffMeAuto" />
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
     <!--

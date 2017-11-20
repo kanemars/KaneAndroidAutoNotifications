@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [Notification]
 languages:    [Java]
 solutions:    [Mobile]
-github:       android-BasicNotifications
+github:       android-ChuffMeAuto
 level:        BEGINNER
 icon:         Application/src/main/big_icon.png
 apiRefs:

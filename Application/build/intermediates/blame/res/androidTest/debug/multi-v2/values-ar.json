@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\java\\BasicNotifications\\Application\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "C:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\4a59c9d62464271bf612166cff13b5ec\\res\\values-ar\\values-ar.xml",

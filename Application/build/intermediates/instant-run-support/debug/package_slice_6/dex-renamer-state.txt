@@ -1,4 +1,4 @@
-#Mon Nov 20 10:59:25 GMT 2017
-base.0=C\:\\java\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+#Mon Nov 20 15:30:12 GMT 2017
+base.0=C\:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6
 renamed.0=classes.dex
-file.0=C\:\\java\\BasicNotifications\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6\\classes.dex
+file.0=C\:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6\\classes.dex
