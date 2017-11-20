@@ -24,7 +24,7 @@ limitations under the License.
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:text="@string/description"
         android:id="@+id/description"
         android:scrollbars="vertical"
@@ -37,6 +37,6 @@ limitations under the License.
         android:text="Do it!"
         android:id="@+id/button"
         android:layout_gravity="center"
-        android:onClick="sendNotification"/>
+        android:onClick="sendNotificationToAndroidAuto"/>
 
 </LinearLayout>
