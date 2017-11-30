@@ -16,14 +16,13 @@
 -->
 
 <resources>
-    <string name="app_name">ChuffMeAuto</string>
+    <string name="app_name">Fizzling Fireboxes</string>
     <string name="intro_message">
         <![CDATA[
         
             
-            This sample demonstrates how to display events in the system\'s notification bar. The
-            NotificationCompat API is used for compatibility with older devices, running Android
-            2.2 (Froyo) or newer.
+            Show a notification when launched.
+            Launch using OK Google by saying "Open Chuff Me"
             
         
         ]]>

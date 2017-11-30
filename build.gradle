@@ -1,11 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
+buildscript {
+    repositories {
+        google()
+    }
+}

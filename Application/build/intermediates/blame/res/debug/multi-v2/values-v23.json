@@ -4,7 +4,7 @@
             "outputFile": "C:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\4a59c9d62464271bf612166cff13b5ec\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6b8cbda76a55067bd556987c95d146f4\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.0.aar\\28c9bc33764e6e65bc8cb772455b66a8\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.1.aar\\87d0b2d3b69711ec7a4d62b9874b67db\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

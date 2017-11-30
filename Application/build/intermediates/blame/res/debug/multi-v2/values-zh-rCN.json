@@ -4,7 +4,7 @@
             "outputFile": "C:\\java\\ChuffMeAuto\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\b29541c5b0920e561d7f4ae34abbc820\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\700582db3ee344d4d791267400713f91\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\4a59c9d62464271bf612166cff13b5ec\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "source": "C:\\Users\\P10158774\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6b8cbda76a55067bd556987c95d146f4\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
